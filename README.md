@@ -24,6 +24,7 @@ Awesome tips to guide you in Toronto, Canada 🇨🇦
 - Casa Loma: Casa Loma is a Gothic Revival style mansion and garden in midtown Toronto, Ontario, Canada, that is now a historic house museum and landmark. It was constructed from 1911 to 1914 as a residence for financier Sir Henry Pellatt.
 [Official website] (http://casaloma.ca/)
 [Wikipedia] (https://en.wikipedia.org/wiki/Casa_Loma)
+- [Art Galley of Ontario](http://ago.ca/)
 
 ## Tourism
 - [CN Tower](http://www.cntower.ca/)
